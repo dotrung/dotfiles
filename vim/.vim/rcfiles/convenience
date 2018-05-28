@@ -1,0 +1,7 @@
+" Convience - configs & mappings to smooth out rough edges and make vim feel like home
+
+" Move between wrapped lines, rather than jumping over wrapped segments
+nmap j gj
+nmap k gk
+
+" vim:ft=vim

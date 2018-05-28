@@ -1,0 +1,5 @@
+" ALE - Asynchronous linting engine, checks files as you work
+
+Plug 'vim-airline/vim-airline'
+
+" vim:ft=vim
